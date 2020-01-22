@@ -37,7 +37,7 @@ Tableau, Python, Jupyter Notebook
 
 ![citi_bikes](Images/user_types.PNG)
 
-- Citi Bike Users are mostly annual subscribers and travel mostly between 7 to 9 am and 5 to 7 pm on weekdays, which is obvious as they travel to/from their jobs. On the other hand, customers mostly travel on weekends and their peek times are between 12 pm and 6 pm.
+- Citi Bike Users are mostly annual subscribers and travel mostly between 7 to 9 am and 5 to 7 pm on weekdays, which is obvious as they travel to/from their jobs. On the other hand, customers mostly travel on weekends and their travel peek times are between 12 pm and 6 pm.
 
 -----
 
