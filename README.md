@@ -49,11 +49,11 @@ Tableau, Python, Jupyter Notebook
 
 ![citi_bikes](Images/gender_distribution.PNG)
 
+- Citi Bike users are mostly men as comapred to women. It also seems that female ridership has grown over time.  
+
 -----
 
 ![citi_bikes](Images/peek_hours_days.PNG)
-
------
 
 - Summer is the busiest time of the year and Wednesday, Tuesday are the most busiest days of the week followed by Friday, Thursday, Saturday and Sunday.
 
