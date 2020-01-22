@@ -5,7 +5,8 @@
 
 
 ## Data Source
-Kaggle.com is the Data source for this project. We chose a dataset named “Gun Violence Data” (https://www.kaggle.com/jameslko/gun-violence-data). This dataset contains more than 260k gun violence incidents, in the US between January 2013 and March 2018 , with detailed information about each incident, in CSV format.
+https://www.citibikenyc.com/system-data
+
 
 ## Questions-
 - How many trips have been recorded total during the chosen period?
