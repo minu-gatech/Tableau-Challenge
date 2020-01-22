@@ -7,6 +7,7 @@ A analysis of the New York Citi Bike Program, responsible for overseeing the lar
 ## Data Source
 https://www.citibikenyc.com/system-data
 
+- Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
 
 ## Questions-
 - How many trips have been recorded total during the chosen period?
