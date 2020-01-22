@@ -27,3 +27,29 @@ https://www.citibikenyc.com/system-data
 
 ## Skills Used:
 Tableau, Python, Jupyter Notebook
+
+
+## Summary Findings:
+
+![citi_bikes](Images/monthly.PNG)
+
+![citi_bikes](Images/user_types.PNG)
+
+![citi_bikes](Images/avg_trip_duration.PNG)
+
+![citi_bikes](Images/gender_distribution.PNG)
+
+![citi_bikes](Images/peek_hours_days.PNG)
+
+![citi_bikes](Images/popular_stations.PNG)
+
+![citi_bikes](Images/stations.PNG)
+
+![citi_bikes](Images/stations_time.PNG)
+
+![citi_bikes](Images/mileage.PNG)
+
+
+
+![citi_bikes](Images/user_types.PNG)
+
