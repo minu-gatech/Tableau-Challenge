@@ -39,26 +39,44 @@ Tableau, Python, Jupyter Notebook
 
 - Citi Bike Users are mostly annual subscribers and travel mostly between 7 to 9 am and 5 to 7 pm on weekdays, which is obvious as they travel to/from their jobs. On the other hand, customers mostly travel on weekends and their peek times are between 12 pm and 6 pm.
 
+-----
+
 ![citi_bikes](Images/avg_trip_duration.PNG)
 
 - Average Trip Duration is higher in one-time Customers as they are tourists who travel more distance as compared to annual subscribers who travel shorter distance to their offices/schools. Citi Bike Users are mostly youngers between age 16-20 and mid-age people between 41-50.
 
+-----
+
 ![citi_bikes](Images/gender_distribution.PNG)
+
+-----
 
 ![citi_bikes](Images/peek_hours_days.PNG)
 
+-----
 
 - Summer is the busiest time of the year and Wednesday, Tuesday are the most busiest days of the week followed by Friday, Thursday, Saturday and Sunday.
 
+-----
 
 ![citi_bikes](Images/popular_stations.PNG)
 
 - Popular stations to start a journey are mostly located near Jersey City area whereas popular end stations are located both in Jersey city and Manhatten-New York City.
 
+-----
+
 ![citi_bikes](Images/stations.PNG)
+
+-----
 
 ![citi_bikes](Images/stations_time.PNG)
 
+-----
+
 ![citi_bikes](Images/mileage.PNG)
 
+-----
 
+
+### Webste Link:
+https://public.tableau.com/profile/minu6484#!/vizhome/TableauChallenge_15790394017170/Story-CitiBikesAnalysis
