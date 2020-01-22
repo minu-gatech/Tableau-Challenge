@@ -2,7 +2,7 @@
 
 ![citi_bikes](Images/citi-bike-station-bikes.jpg)
 
-A analysis of the New York Citi Bike Program, responsible for overseeing the largest bike sharing program in order to generate business insights in terms of visulize the peak time in both summer and winter period and the top start location in New York City and Jersey City, New Jersey.
+A analysis of the New York Citi Bike Program, responsible for overseeing the largest bike sharing program in order to generate business insights in terms of visualize the peak time in both summer and winter period and the top start location in New York City and Jersey City, New Jersey.
 
 ## Data Source
 https://www.citibikenyc.com/system-data
